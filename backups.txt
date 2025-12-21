@@ -1,1 +1,28 @@
-
+Novaler4K_UHD_MultiboxPro
+OPENPLI_GCC_15_2_18122025 https://www.novaler.com/uploads/enigmapro/openpli/openpli-GCC-15.2-novaler4kpro-backup-20251218_usb.zip
+OPENPLI_PY3_12_11122025 https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-novaler4kpro-backup-20251211_usb.zip
+OPENATV_7_6_0_09122025 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.6.0-novaler4kpro-backup-20251209_usb.zip
+OPENBH_5_6_001_09122025 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.6-novaler4kpro-backup-20251209_usb.zip
+TEAMBLUE_7_6_08122025 https://www.novaler.com/uploads/enigmapro/teamblue/teamblue-7.6-novaler4kpro-backup-20251208_usb.zip
+OPEN_VIX_6_8_08122025 https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.8-novaler4kpro-backup-20251208_usb.zip
+GAZAL_20122025 https://www.novaler.com/uploads/enigmapro/define/GAZAL_Mix_v1.00.52-novaler4kpro-20251220_1018_usb.zip
+DEFINE_7_0_07122025 https://www.novaler.com/uploads/enigmapro/define/define-7.0-novaler4kpro-backup-20251207_usb.zip
+DENSY_OS_07122025 https://www.novaler.com/uploads/enigmapro/define/Densy-OS_v2.01.13-novaler4kpro-backup-20251207_usb.zip
+GAZAL_01_00_52_07122025 https://www.novaler.com/uploads/enigmapro/define/Gazal-01.00.52-novaler4kpro-backup-20251207_usb.zip
+SPIDER_PLUS_PRO_V1_00_88_24112025 https://www.novaler.com/uploads/enigmapro/define/Spider-Plus-Pro-v1.00.88-novaler4kpro-backup-20251124_usb.zip
+SUNGATE_TITAN_1_00_16_23112025 https://www.novaler.com/uploads/enigmapro/define/Sungate-titan-1.00.16-novaler4kpro-backup-20251123_usb.zip
+EGAMI_11_0R5_29102025 https://www.novaler.com/uploads/enigmapro/egami/egami-11.0.r5-novaler4kpro-backup-20251029_usb.zip
+PURE2_7_4_21102025 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.4-novaler4kpro-backup-20251021_usb.zip
+OPENATV_7_5_1_08072025 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.5.1-novaler4kpro-backup-20250708_usb.zip
+OPENBLACKHOLE_5_5_1_28052025 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.1-011-novaler4kpro-backup-20250528_mmc.zip
+OPEN_VIX_6_7_14062025 https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.7-novaler4kpro-backup-20250614_usb.zip
+OPENHDF_7_5_11062025 https://www.novaler.com/uploads/enigmapro/openhdf/openhdf-7.5-novaler4kpro-backup-20250611_usb.zip
+EGAMI_10_6R13_09062025 https://www.novaler.com/uploads/enigmapro/egami/egami-10.6.r13-novaler4kpro-backup-20250609_usb.zip
+CORVOBOYS_08062025 https://www.novaler.com/uploads/enigmapro/corvoboys/corvoboys-05-novaler4kpro-backup-20250608_usb.zip
+OPEN_SPA_8_5_001_22042025 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.5-001-novaler4kpro-backup-20250422_usb.zip
+OPENPLI_9_1_31122024 https://www.novaler.com/uploads/enigmapro/openpli/openpli-9.1-novaler4kpro-backup-20241231_usb.zip
+OPENPLI_PY3_02122024 https://www.novaler.com/uploads/enigmapro/openpli/openpli-develop-novaler4kpro-backup-20241202_usb.zip
+OPENATV_7_4_20082024 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.4-novaler4kpro-backup-20240820_usb.zip
+SATDREAMGR_10_30052024 https://www.novaler.com/uploads/enigmapro/satdreamgr/satdreamgr-10-novaler4kpro-backup-20240530_usb.zip
+NONSOLOSAT_33_PY3_27052024 https://www.novaler.com/uploads/enigmapro/nonsolosat/nonsolosat-33-novaler4kpro-backup-20240527_usb.zip
+PURE2_7_3_29042024 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.3-novaler4kpro-backup-20240429_usb.zip
