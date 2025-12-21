@@ -1,0 +1,32 @@
+name: Update Novaler Backups
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Toutes les 12 heures (tu peux changer : '0 8 * * *' pour tous les jours à 8h UTC)
+  workflow_dispatch:  # Permet de lancer manuellement depuis l'interface GitHub
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Scrape and update backups.txt
+        run: python scrape_novaler.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+          git add backups.txt
+          git commit -m "Mise à jour automatique des backups Novaler [$(date +'%Y-%m-%d %H:%M')]" || exit 0
+          git push
