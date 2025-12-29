@@ -1,4 +1,5 @@
 Novaler4K_UHD_MultiboxPro
+PURE2_7_620251228_USB_28122025 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.6-novaler4kpro-backup-20251228_usb.zip
 EGAMI_11.0R5_25122025 https://www.novaler.com/uploads/enigmapro/egami/egami-11.0.r9-novaler4kpro-backup-20251225_usb.zip
 GAZAL_MAX_20122025 https://www.novaler.com/uploads/enigmapro/define/GAZAL_Mix_v1.00.52-novaler4kpro-20251220_1018_usb.zip
 OPENPLI_GCC_15.2_18122025 https://www.novaler.com/uploads/enigmapro/openpli/openpli-GCC-15.2-novaler4kpro-backup-20251218_usb.zip
