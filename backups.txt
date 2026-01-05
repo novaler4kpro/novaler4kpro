@@ -1,4 +1,5 @@
 Novaler4K_UHD_MultiboxPro
+SPIDER_VIP_V1_00_8920260104_USB_04012026 https://www.novaler.com/uploads/enigmapro/define/SPIDER_VIP_v1.00.89-novaler4kpro-backup-20260104_usb.zip
 ZUKONMOD_HYPERION20260101_USB_01012026 https://www.novaler.com/uploads/enigmapro/pkt/zukonMOD-Hyperion-novaler4kpro-backup-20260101_usb.zip
 PURE2_7_620251228_USB_28122025 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.6-novaler4kpro-backup-20251228_usb.zip
 EGAMI_11.0R5_25122025 https://www.novaler.com/uploads/enigmapro/egami/egami-11.0.r9-novaler4kpro-backup-20251225_usb.zip
