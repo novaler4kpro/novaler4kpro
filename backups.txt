@@ -1,4 +1,5 @@
 Novaler4K_UHD_MultiboxPro
+OPENSPA_8_6_00120260112_USB_12012026 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.6.001-novaler4kpro-backup-20260112_usb.zip
 SPIDER_VIP_V1_00_8920260104_USB_04012026 https://www.novaler.com/uploads/enigmapro/define/SPIDER_VIP_v1.00.89-novaler4kpro-backup-20260104_usb.zip
 ZUKONMOD_HYPERION20260101_USB_01012026 https://www.novaler.com/uploads/enigmapro/pkt/zukonMOD-Hyperion-novaler4kpro-backup-20260101_usb.zip
 PURE2_7_620251228_USB_28122025 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.6-novaler4kpro-backup-20251228_usb.zip
@@ -22,7 +23,6 @@ OPENHDF_7.5_11062025 https://www.novaler.com/uploads/enigmapro/openhdf/openhdf-7
 EGAMI_10.6R13_09062025 https://www.novaler.com/uploads/enigmapro/egami/egami-10.6.r13-novaler4kpro-backup-20250609_usb.zip
 CORVOBOYS_08062025 https://www.novaler.com/uploads/enigmapro/corvoboys/corvoboys-05-novaler4kpro-backup-20250608_usb.zip
 OPENBLACKHOLE_5.5.1_28052025 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.1-011-novaler4kpro-backup-20250528_mmc.zip
-OPEN_SPA_8.5.001_22042025 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.5-001-novaler4kpro-backup-20250422_usb.zip
 OPENPLI_9.1_31122024 https://www.novaler.com/uploads/enigmapro/openpli/openpli-9.1-novaler4kpro-backup-20241231_usb.zip
 OPENPLI_PY3_02122024 https://www.novaler.com/uploads/enigmapro/openpli/openpli-develop-novaler4kpro-backup-20241202_usb.zip
 OPENATV_7.4_20082024 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.4-novaler4kpro-backup-20240820_usb.zip
