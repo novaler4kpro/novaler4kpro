@@ -1,4 +1,5 @@
 Novaler4K_UHD_MultiboxPro
+OPENATV_7.6.0_10022026 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.6.1-novaler4kpro-backup-20260210_usb.zip
 OPENBH_5.6.001_09022026 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.6.003-novaler4kpro-backup-20260209_usb.zip
 EGAMI_11.0R5_08022026 https://www.novaler.com/uploads/enigmapro/egami/egami-11.0.r11-novaler4kpro-backup-20260208_usb.zip
 PURE2_7_620260202_USB_02022026 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.6-novaler4kpro-backup-20260202_usb.zip
@@ -8,7 +9,6 @@ SPIDER_VIP_V1_00_8920260104_USB_04012026 https://www.novaler.com/uploads/enigmap
 ZUKONMOD_HYPERION20260101_USB_01012026 https://www.novaler.com/uploads/enigmapro/pkt/zukonMOD-Hyperion-novaler4kpro-backup-20260101_usb.zip
 GAZAL_MAX_20122025 https://www.novaler.com/uploads/enigmapro/define/GAZAL_Mix_v1.00.52-novaler4kpro-20251220_1018_usb.zip
 OPENPLI_GCC_15.2_18122025 https://www.novaler.com/uploads/enigmapro/openpli/openpli-GCC-15.2-novaler4kpro-backup-20251218_usb.zip
-OPENATV_7.6.0_09122025 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.6.0-novaler4kpro-backup-20251209_usb.zip
 TEAMBLUE_7.6_08122025 https://www.novaler.com/uploads/enigmapro/teamblue/teamblue-7.6-novaler4kpro-backup-20251208_usb.zip
 OPEN_VIX_6.8_08122025 https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.8-novaler4kpro-backup-20251208_usb.zip
 DEFINE_7.0_07122025 https://www.novaler.com/uploads/enigmapro/define/define-7.0-novaler4kpro-backup-20251207_usb.zip
