@@ -25,7 +25,6 @@ CORVOBOYS_08062025 https://www.novaler.com/uploads/enigmapro/corvoboys/corvoboys
 OPENBLACKHOLE_5.5.1_28052025 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.1-011-novaler4kpro-backup-20250528_mmc.zip
 OPENPLI_9.1_31122024 https://www.novaler.com/uploads/enigmapro/openpli/openpli-9.1-novaler4kpro-backup-20241231_usb.zip
 OPENPLI_PY3_02122024 https://www.novaler.com/uploads/enigmapro/openpli/openpli-develop-novaler4kpro-backup-20241202_usb.zip
-OPENATV_7.4_20082024 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.4-novaler4kpro-backup-20240820_usb.zip
 SATDREAMGR_10_30052024 https://www.novaler.com/uploads/enigmapro/satdreamgr/satdreamgr-10-novaler4kpro-backup-20240530_usb.zip
 NONSOLOSAT_33_PY3_27052024 https://www.novaler.com/uploads/enigmapro/nonsolosat/nonsolosat-33-novaler4kpro-backup-20240527_usb.zip
 PURE2_7.3_29042024 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.3-novaler4kpro-backup-20240429_usb.zip
