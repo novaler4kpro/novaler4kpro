@@ -1,5 +1,4 @@
 Novaler4K_UHD_MultiboxPro
-OPENPLI_11_020260315_USB_15032026 https://www.novaler.com/uploads/enigmapro/openpli/openpli-11.0-novaler4kpro-backup-20260315_usb.zip
 OPENATV_7.6.0_12032026 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.6.1-novaler4kpro-backup-20260312_usb.zip
 PURE2_7_620260311_USB_11032026 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.6-novaler4kpro-backup-20260311_usb.zip
 OPENBH_5.6.001_10032026 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.6.005-novaler4kpro-backup-20260310_usb.zip
