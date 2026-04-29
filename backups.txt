@@ -1,4 +1,5 @@
 Novaler4K_UHD_MultiboxPro
+OPENATV_7.5.1_29042026 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.5.1-novaler4kpro-backup-20260429_usb.zip
 EGAMI_11.0R5_20042026 https://www.novaler.com/uploads/enigmapro/egami/egami-11.0.r20-novaler4kpro-backup-20260420_usb.zip
 PURE2_7_620260420_USB_20042026 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.6-novaler4kpro-backup-20260420_usb.zip
 OPENBH_5.6.001_15042026 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.6.006-novaler4kpro-backup-20260415_usb.zip
@@ -17,7 +18,6 @@ GAZAL_LINUX_07122025 https://www.novaler.com/uploads/enigmapro/define/Gazal-01.0
 SPIDER_PLUS_24112025 https://www.novaler.com/uploads/enigmapro/define/Spider-Plus-Pro-v1.00.88-novaler4kpro-backup-20251124_usb.zip
 SUNGATE_TITAN_23112025 https://www.novaler.com/uploads/enigmapro/define/Sungate-titan-1.00.16-novaler4kpro-backup-20251123_usb.zip
 PURE2_7.4_21102025 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.4-novaler4kpro-backup-20251021_usb.zip
-OPENATV_7.5.1_08072025 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.5.1-novaler4kpro-backup-20250708_usb.zip
 OPEN_VIX_6.7_14062025 https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.7-novaler4kpro-backup-20250614_usb.zip
 OPENHDF_7.5_11062025 https://www.novaler.com/uploads/enigmapro/openhdf/openhdf-7.5-novaler4kpro-backup-20250611_usb.zip
 EGAMI_10.6R13_09062025 https://www.novaler.com/uploads/enigmapro/egami/egami-10.6.r13-novaler4kpro-backup-20250609_usb.zip
