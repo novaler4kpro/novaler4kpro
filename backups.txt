@@ -1,4 +1,5 @@
 Novaler4K_UHD_MultiboxPro
+CORVOBOYS_11082026 https://www.novaler.com/uploads/enigmapro/corvoboys/CorvoBoys-08-novaler4kpro-backup-20260811_usb.zip
 TEAMBLUE_15072026 https://www.novaler.com/uploads/enigmapro/teamblue/Teamblue-8.0-novaler4kpro-backup-20260715_usb.zip
 OPENPLI_GCC_15.1_08072026 https://www.novaler.com/uploads/enigmapro/openpli/openpli-GCC-16.1-novaler4kpro-backup-20260708_usb.zip
 OPENBH_6_020260613_USB_13062026 https://www.novaler.com/uploads/enigmapro/openbh/openbh-6.0-novaler4kpro-backup-20260613_usb.zip
@@ -23,7 +24,6 @@ SPIDER_PLUS_24112025 https://www.novaler.com/uploads/enigmapro/define/Spider-Plu
 SUNGATE_TITAN_23112025 https://www.novaler.com/uploads/enigmapro/define/Sungate-titan-1.00.16-novaler4kpro-backup-20251123_usb.zip
 PURE2_7.4_21102025 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.4-novaler4kpro-backup-20251021_usb.zip
 EGAMI_10.6R13_09062025 https://www.novaler.com/uploads/enigmapro/egami/egami-10.6.r13-novaler4kpro-backup-20250609_usb.zip
-CORVOBOYS_08062025 https://www.novaler.com/uploads/enigmapro/corvoboys/corvoboys-05-novaler4kpro-backup-20250608_usb.zip
 SATDREAMGR_10_30052024 https://www.novaler.com/uploads/enigmapro/satdreamgr/satdreamgr-10-novaler4kpro-backup-20240530_usb.zip
 NONSOLOSAT_33_PY3_27052024 https://www.novaler.com/uploads/enigmapro/nonsolosat/nonsolosat-33-novaler4kpro-backup-20240527_usb.zip
 PURE2_7.3_29042024 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.3-novaler4kpro-backup-20240429_usb.zip
