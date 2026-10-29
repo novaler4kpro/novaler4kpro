@@ -1,4 +1,5 @@
 Novaler4K_UHD_MultiboxPro
+OPENVIX_6_9_00620261029_USB_29102026 https://www.novaler.com/uploads/enigmapro/openvix/OpenViX-6.9.006-novaler4kpro-backup-20261029_usb.zip
 OPENBH_6_0_00520261026_USB_26102026 https://www.novaler.com/uploads/enigmapro/openbh/OpenBh-6.0.005-novaler4kpro-backup-20261026_usb.zip
 OPENPLI_WRYNOSE20260917_USB_17092026 https://www.novaler.com/uploads/enigmapro/openpli/OpenPLi-wrynose-novaler4kpro-backup-20260917_usb.zip
 OPENATV_8_0_2_DEVEL20260906_USB_06092026 https://www.novaler.com/uploads/enigmapro/openatv/OpenATV-8.0.2-devel-novaler4kpro-backup-20260906_usb.zip
@@ -8,7 +9,6 @@ OPENPLI_GCC_15.1_08072026 https://www.novaler.com/uploads/enigmapro/openpli/open
 OPENPLI_PY3.12_11062026 https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-novaler4kpro-backup-20260611_usb.zip
 EGAMI_11.0R5_09062026 https://www.novaler.com/uploads/enigmapro/egami/egami-11.0.r21-novaler4kpro-backup-20260609_usb.zip
 PURE2_7_620260608_USB_08062026 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.6-novaler4kpro-backup-20260608_usb.zip
-OPENVIX_7_020260607_USB_07062026 https://www.novaler.com/uploads/enigmapro/openvix/openvix-7.0-novaler4kpro-backup-20260607_usb.zip
 OPENHDF_8_020260606_USB_06062026 https://www.novaler.com/uploads/enigmapro/openhdf/openhdf-8.0-novaler4kpro-backup-20260606_usb.zip
 OPENSPA_8_720260604_USB_04062026 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.7-novaler4kpro-backup-20260604_usb.zip
 OPENATV_7.5.1_29042026 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.5.1-novaler4kpro-backup-20260429_usb.zip
