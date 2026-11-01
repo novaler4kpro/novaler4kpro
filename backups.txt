@@ -1,8 +1,8 @@
 Novaler4K_UHD_MultiboxPro
+OPENATV_8_0_120261101_USB_01112026 https://www.novaler.com/uploads/enigmapro/openatv/OpenATV-8.0.1-novaler4kpro-backup-20261101_usb.zip
 OPENVIX_6_9_00620261029_USB_29102026 https://www.novaler.com/uploads/enigmapro/openvix/OpenViX-6.9.006-novaler4kpro-backup-20261029_usb.zip
 OPENBH_6_0_00520261026_USB_26102026 https://www.novaler.com/uploads/enigmapro/openbh/OpenBh-6.0.005-novaler4kpro-backup-20261026_usb.zip
 OPENPLI_WRYNOSE20260917_USB_17092026 https://www.novaler.com/uploads/enigmapro/openpli/OpenPLi-wrynose-novaler4kpro-backup-20260917_usb.zip
-OPENATV_8_0_2_DEVEL20260906_USB_06092026 https://www.novaler.com/uploads/enigmapro/openatv/OpenATV-8.0.2-devel-novaler4kpro-backup-20260906_usb.zip
 CORVOBOYS_11082026 https://www.novaler.com/uploads/enigmapro/corvoboys/CorvoBoys-08-novaler4kpro-backup-20260811_usb.zip
 TEAMBLUE_15072026 https://www.novaler.com/uploads/enigmapro/teamblue/Teamblue-8.0-novaler4kpro-backup-20260715_usb.zip
 OPENPLI_GCC_15.1_08072026 https://www.novaler.com/uploads/enigmapro/openpli/openpli-GCC-16.1-novaler4kpro-backup-20260708_usb.zip
