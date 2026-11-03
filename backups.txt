@@ -1,5 +1,5 @@
 Novaler4K_UHD_MultiboxPro
-OPENPLI_WRYNOSE20261102_USB_02112026 https://www.novaler.com/uploads/enigmapro/openpli/OpenPLi-wrynose-novaler4kpro-backup-20261102_usb.zip
+OPENPLI_WRYNOSE20261103_USB_03112026 https://www.novaler.com/uploads/enigmapro/openpli/OpenPLi-wrynose-novaler4kpro-backup-20261103_usb.zip
 OPENATV_8_0_120261101_USB_01112026 https://www.novaler.com/uploads/enigmapro/openatv/OpenATV-8.0.1-novaler4kpro-backup-20261101_usb.zip
 OPENVIX_6_9_00620261029_USB_29102026 https://www.novaler.com/uploads/enigmapro/openvix/OpenViX-6.9.006-novaler4kpro-backup-20261029_usb.zip
 OPENBH_6_0_00520261026_USB_26102026 https://www.novaler.com/uploads/enigmapro/openbh/OpenBh-6.0.005-novaler4kpro-backup-20261026_usb.zip
