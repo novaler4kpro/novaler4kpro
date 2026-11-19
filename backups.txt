@@ -21,6 +21,8 @@ DEFINE_7.0_07122025 https://www.novaler.com/uploads/enigmapro/define/define-7.0-
 DENSY_OS_07122025 https://www.novaler.com/uploads/enigmapro/define/Densy-OS_v2.01.13-novaler4kpro-backup-20251207_usb.zip
 GAZAL_LINUX_07122025 https://www.novaler.com/uploads/enigmapro/define/Gazal-01.00.52-novaler4kpro-backup-20251207_usb.zip
 SPIDER_PLUS_24112025 https://www.novaler.com/uploads/enigmapro/define/Spider-Plus-Pro-v1.00.88-novaler4kpro-backup-20251124_usb.zip
+REDFLAGDEFINEPACK_2_NOVALER4KPRO_20251123_USB_23112025 https://www.novaler.com/uploads/enigmapro/define/RedFlagDefinePack-2-novaler4kpro-20251123_usb.zip
+REDFLAGDEFINEPACK_1_NOVALER4KPRO_20251123_USB_23112025 https://www.novaler.com/uploads/enigmapro/define/RedFlagDefinePack-1-novaler4kpro-20251123_usb.zip
 SUNGATE_TITAN_23112025 https://www.novaler.com/uploads/enigmapro/define/Sungate-titan-1.00.16-novaler4kpro-backup-20251123_usb.zip
 PURE2_7.4_21102025 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.4-novaler4kpro-backup-20251021_usb.zip
 EGAMI_10.6R13_09062025 https://www.novaler.com/uploads/enigmapro/egami/egami-10.6.r13-novaler4kpro-backup-20250609_usb.zip
